@@ -10,8 +10,8 @@ This lab required the following in order to attempt:
   2) Windows Server 2019 ISO image for the installation( I will skip the installation portion )
 
 ### Configurations 
-1) **Static IP on LAN facing interface** ==>  
-2) **Static IP on WAN facing interface ( Will add a firewall later between this connection)** ==> 
+1) **Static IP on LAN facing interface** ==>  **10.10.1.0 /24**
+
 
 
 ### Procedure 
@@ -19,17 +19,27 @@ This lab required the following in order to attempt:
 1) Assigning the LAN static IP address
 
 With the windows server booted up, proceed to the network settings in order to configure the IP addressing of the server. The below image
-shows 2 network interfaces available. 
+shows the network interface available. 
 
-![1_1](https://github.com/user-attachments/assets/ff5d891a-8b6d-4b21-9b52-dc17c6d42462)
+![1_1](https://github.com/user-attachments/assets/dd26419f-86bb-4782-8e5b-0b2886673b61)
 
-The unidentified network once configured will be our internal LAN and the Network 2 will be our WAN connection to the internet.
-Proceed to open up the properties window *Ethernet0* to configure the IPv4 settings as follows:
+The unidentified network once configured will be our internal LAN. Proceed to configure static addressing to this interface
 
-![1_2](https://github.com/user-attachments/assets/38853560-7834-48a0-a563-fb8adb67b968)
+![1_2](https://github.com/user-attachments/assets/1cbab071-554e-4681-a1cb-9f90ea176433)
 
-Close the dialog once done , ensuring the configurations are correct. I proceed to do the same with the 2nd interface for the WAN
-as shown below:
+2) Renaming the Server Computer Name
+
+For easier identification purposes , I would want to rename the device to make it more easily identifiable. It can be do done so as shown below:
+
+
+https://github.com/user-attachments/assets/942af600-a4dc-4071-9345-6175b537cf42
+
+Once the server has rebooted in order to apply the changes, the name change reflect should reflect and can be observed by going to the local server tab as shown
+
+![1_3](https://github.com/user-attachments/assets/c4388b3a-83a1-4f23-921f-c66f18fd87e5)
+
+
+
 
 
 
