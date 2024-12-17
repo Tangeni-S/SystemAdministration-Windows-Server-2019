@@ -11,7 +11,8 @@ This lab required the following in order to attempt:
 
 ### Configurations 
 1) **Static IP on LAN facing interface** ==>  **10.10.1.0 /24**
-
+2) **Computer name change**
+3) 
 
 
 ### Procedure 
