@@ -26,4 +26,9 @@ Proceed with starting the installation by pressing install and wait for the inst
 
 ![4](https://github.com/user-attachments/assets/4232b570-42ac-4aaa-a340-ccb40780d69b)
 
+Once installation is complete you can close the installation dialog box. 
+
+![5](https://github.com/user-attachments/assets/ce1aef1e-9b32-42c0-818c-3a0a5e640f93)
+
+
 
