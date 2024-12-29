@@ -12,7 +12,7 @@ This lab required the following in order to attempt:
 ### Configurations 
 1) **Static IP on LAN facing interface** ==>  **10.10.1.0 /24**
 2) **Computer name change**
-3) 
+
 
 
 ### Procedure 
@@ -39,7 +39,8 @@ Once the server has rebooted in order to apply the changes, the name change refl
 
 ![1_3](https://github.com/user-attachments/assets/c4388b3a-83a1-4f23-921f-c66f18fd87e5)
 
-
+Next we look at adding our first role/feature being the Active Directory Domain Services
+>>>
 
 
 
