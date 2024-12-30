@@ -59,10 +59,14 @@ Once installation is complete , server will force a restart to complete its conf
 
 ![e](https://github.com/user-attachments/assets/d6684a65-68eb-40dd-82b2-cb6cf1e4b66c)
 
+After the reboot, and logging in , you can confirm that the domain is running from the server dashboard
 
+![f](https://github.com/user-attachments/assets/698988d3-d3f0-411d-92e6-ff99930625f0)
 
+#### NOTE
+After promoting DC, return to your network settings to re-set your DNS settings which will have been changed during the process. Very important not to forget changing it moving forwards to the nexts steps
 
-
+![g](https://github.com/user-attachments/assets/16619f95-0538-4952-967a-0ee2bffc14bb)
 
 
 
