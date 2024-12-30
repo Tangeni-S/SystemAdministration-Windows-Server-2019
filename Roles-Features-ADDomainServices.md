@@ -1,4 +1,4 @@
-![c](https://github.com/user-attachments/assets/ef65a14d-cad7-418f-9de6-da2b4e9ac7a3)# Roles and Features - Active Directory Domain Services
+# Roles and Features - Active Directory Domain Services
 
 ## Objective
 The objective of this section is to add the Active Directory Domain Services feature on the Windows Server and as well do the initial configuration necessary
