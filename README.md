@@ -40,7 +40,7 @@ Once the server has rebooted in order to apply the changes, the name change refl
 ![1_3](https://github.com/user-attachments/assets/c4388b3a-83a1-4f23-921f-c66f18fd87e5)
 
 Next we look at adding our first role/feature being the Active Directory Domain Services
->>> <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019/blob/77e98380b8fd83ec2d53567ed633a988cc06bb37/Roles-Features-ADDomainServices.md">Roles and Features - Active Directory Domain Services</a>
+>>> <a href="https://github.com/Tangeni-S/SystemAdministration-Windows-Server-2019/blob/main/Roles-Features-ADDomainServices.md">Roles and Features - Active Directory Domain Services</a>
 
 
 
