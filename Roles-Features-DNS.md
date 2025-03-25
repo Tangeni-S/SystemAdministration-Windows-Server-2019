@@ -10,3 +10,6 @@ In my installation I have already install DNS services and would not need to go 
 
 https://github.com/user-attachments/assets/f533854d-6bc3-498a-87be-2adb447ee00c
 
+## Configuration of DNS
+https://github.com/user-attachments/assets/afdd8c92-73dd-4ce7-bce6-f0477233bb1a
+
